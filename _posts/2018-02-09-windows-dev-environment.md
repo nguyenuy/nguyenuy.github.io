@@ -1,8 +1,7 @@
 ---
 title: "2018 - The Year of the Modern Windows Development Environment"
 date: 2018-02-09 00:26:28 -0400
-categories: dev windows
-share: false
+tags: dev windows
 ---
 It's 2018 and Microsoft has made strides in creating a more friendly environment for devs in general within Windows 10.
 I just fully migrated over to this environment after using MacOS and Linux the past couple of years in my personal
