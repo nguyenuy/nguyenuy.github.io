@@ -7,7 +7,7 @@
 
 ## !USE TEXT THEME
 #theme: jekyll-text-theme # Gem-based Jekyll Themes
-remote_theme: kitian616/jekyll-TeXt-theme@v2.2.4 # Jekyll Remote Theme, see https://github.com/benbalter/jekyll-remote-theme for more information.
+remote_theme: kitian616/jekyll-TeXt-theme@v2.2.6 # Jekyll Remote Theme, see https://github.com/benbalter/jekyll-remote-theme for more information.
 #
 # ,--------.      ,--.   ,--. ,--.
 # '--.  .--',---.  \  `.'  /,-'  '-.
