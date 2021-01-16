@@ -15,6 +15,7 @@ author: Uy Nguyen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Archive: "archive"
   About Me: "aboutme"
 # UNCOMMENT Lines below to enable drop-down menu on nav bar
 #  Resources:
@@ -47,7 +48,7 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: nguyenuy
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
