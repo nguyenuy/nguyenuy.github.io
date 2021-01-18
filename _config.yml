@@ -16,11 +16,9 @@ author: Uy Nguyen
 
 navbar-links:
   Archive: "archive"
-  About Me: "aboutme"
-# UNCOMMENT Lines below to enable drop-down menu on nav bar
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
+  About:
+    - Me: "aboutme"
+    - Resume: "resume"
 
 # --- Logo --- #
 
