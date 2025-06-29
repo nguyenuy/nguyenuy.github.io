@@ -2,8 +2,20 @@ baseURL: https://nguyenuy.github.io/
 languageCode: en-us
 title: Uy Nguyen
 theme: ["PaperMod"]
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 10
+    - identifier: resume
+      name: Resume
+      url: /resume/
+      weight: 20
 
 params:
+  mainSections:
+    - "posts"
   profileMode:
     enabled: true
     subtitle: "Crafting Code, Devouring Tacos: A Software Engineer's Perspective"
@@ -13,9 +25,13 @@ params:
     buttons:
       - name: Archives
         url: "/archives"
+      - name: Resume
+        url: "/resume"
 
   socialIcons: # optional - fill in your details or comment this section out
     - name: "GitHub"
       url: "https://github.com/nguyenuy"
     - name: "LinkedIn"
       url: "https://linkedin.com/in/nguyenuy"
+    - name: "X"
+      url: "https://x.com/unguyen3"
