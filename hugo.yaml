@@ -6,18 +6,16 @@ theme: ["PaperMod"]
 params:
   profileMode:
     enabled: true
-    subtitle: "This is subtitle"
-    imageUrl: "assets/profile.jpg"
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    subtitle: "Crafting Code, Devouring Tacos: A Software Engineer's Perspective"
+    imageUrl: "profile.jpg"
+    imageWidth: 180 # custom size
+    imageHeight: 180 # custom size
     buttons:
       - name: Archive
         url: "/archive"
-      - name: Github
-        url: "https://github.com/"
 
-  socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
+  socialIcons: # optional - fill in your details or comment this section out
+    - name: "GitHub"
+      url: "https://github.com/nguyenuy"
+    - name: "LinkedIn"
+      url: "https://linkedin.com/in/nguyenuy"
