@@ -7,8 +7,7 @@ params:
   profileMode:
     enabled: true
     subtitle: "This is subtitle"
-    imageUrl: "<image link>" # optional
-    imageTitle: "<title of image as alt>" # optional
+    imageUrl: "assets/profile.jpg"
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
