@@ -11,8 +11,8 @@ params:
     imageWidth: 180 # custom size
     imageHeight: 180 # custom size
     buttons:
-      - name: Archive
-        url: "/archive"
+      - name: Archives
+        url: "/archives"
 
   socialIcons: # optional - fill in your details or comment this section out
     - name: "GitHub"
