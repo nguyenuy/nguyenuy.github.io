@@ -4,7 +4,7 @@ This repository contains the source code for my personal website, [nguyenuy.gith
 
 ## Local Development
 
-To run the site on your local machine, you'll need to have the **extended** version of Hugo installed. You can find installation instructions in the [official Hugo documentation](https://gohugo.io/installation/).
+To run the site on your local machine, install **Hugo Extended 0.168.0** to match the deployment workflow. You can find installation instructions in the [official Hugo documentation](https://gohugo.io/installation/).
 
 1.  **Clone the repository**
 
