@@ -18,10 +18,26 @@ To run the site on your local machine, install **Hugo Extended 0.168.0** to matc
 2.  **Run the Hugo server**
 
     ```bash
-    hugo server
+    bash scripts/preview.sh
     ```
 
     The site will be available at `http://localhost:1313/`.
+
+## GitHub Codespaces
+
+The devcontainer installs Hugo Extended 0.168.0, initializes the PaperMod submodule, and forwards port 1313.
+
+For an existing Codespace, run **Codespaces: Rebuild Container** from the Command Palette to apply the configuration. New Codespaces use it automatically.
+
+Start the preview with:
+
+```bash
+bash scripts/preview.sh
+```
+
+In the **Ports** tab, click **Open in Browser** for **Hugo preview** (port 1313). The script uses your current Codespace's HTTPS URL for navigation and live reload. Stop the preview with `Ctrl+C`.
+
+When updating Hugo, keep the versions in `.devcontainer/devcontainer.json`, `.github/workflows/hugo.yaml`, and this README in sync.
 
 ## Theme Management
 
